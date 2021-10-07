@@ -1,0 +1,8 @@
+discord.py[voice]
+psutil
+jishaku
+feedparser
+aiomysql
+youtube_dl
+ffmpeg
+googleapiclient
