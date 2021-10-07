@@ -1,2 +1,2 @@
-# RisuPu-Bot
-RisuPuの専属Bot
+# DBot_3
+どこかのサーバーの専属Botだったもの
